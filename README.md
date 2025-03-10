@@ -14,5 +14,12 @@ Just clone it, Copy everything into .config and your good to go
 	cp -r * ~/.config
   ```
 
+# Bindings:
+- Opening Firefox `S-w`
+- Opening Emacs `S-z`
+- Others are just Hyprland defaults
+
 # Sources:
 I don't remember just searched simple hyprland example and then edited it until it looked like what I want.
+
+
